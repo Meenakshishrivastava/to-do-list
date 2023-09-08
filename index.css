@@ -1,0 +1,36 @@
+* {
+    margin: 0;
+    padding: 0;
+
+}
+
+
+.bod{
+    margin: 38px;
+    padding: 21px;
+    text-align: center;
+}
+.form-label {
+    margin-bottom: 0.5rem;
+    font-size: 2rem;
+    /* border-bottom: blue; */
+    font-weight: bold;
+    flex: revert;
+    font-family: ui-monospace;
+}
+.navbar-brand{
+    font-family: ui-monospace;
+    font-size: 2rem;
+    font-weight: bolder;
+}
+.newdiv{
+    background-color: rgb(187, 187, 207);
+}
+#todo{
+        border-radius: 36px;
+        padding: 11px;
+        margin: 98px;
+        box-sizing: 20px;
+        box-shadow: 2px;
+        background-color: #d4e3e3;
+}
